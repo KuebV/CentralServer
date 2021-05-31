@@ -17,7 +17,7 @@ namespace CentralServerBot
 
         public static void SendPacketToServer(string Message)
         {
-            string IP = "203.10.96.26";
+            string IP = "";
             int Port = 7500;
 
             client = new EasyClient(IP, Port, packet);
