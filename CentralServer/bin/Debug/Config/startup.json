@@ -1,0 +1,5 @@
+{
+  "Port": 7500,
+  "IdleMode": true,
+  "IdleModeTimer": 15
+}

@@ -1,0 +1,6 @@
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\bin\Debug\Networking.dll
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\bin\Debug\Networking.pdb
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\obj\Debug\Networking.dll
+C:\Users\Bobby\source\repos\EasyNetworking\Networking\obj\Debug\Networking.pdb
